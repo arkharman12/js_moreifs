@@ -1,0 +1,23 @@
+/**********
+TITLE: More Ifs
+AUTHOR: Harmanjot Singh (HS)
+PURPOSE: To style the moreifs.html
+ORIGINALLY CREATED ON: 7 Feb 2019
+LAST MODIFIED ON: 7 Feb 2019
+LAST MODIFIED BY: Harmanjot Singh (HS)
+MODIFICATION HISTORY: Original Build
+**********/
+
+body {
+    background-color: peru;
+}
+
+a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+.previous {
+    background-color: #f1f1f1;
+    color: black;
+}
